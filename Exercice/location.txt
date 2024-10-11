@@ -1,0 +1,6 @@
+Locations en 2016:
+   3144   16146   92409
+Locations en 2017:
+   2466   12656   73743
+Locations en 2018:
+   3110   16187   99894
