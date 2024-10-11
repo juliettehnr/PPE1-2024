@@ -1,1 +1,31 @@
+# Exercices Séance 3
 
+## Commandes utilisées:
+
+PS : Il y a eu beaucoup de tâtonnage, je n'écris que les commandes finales qui ont fonctionnées. 
+     J'ai également omis tous les changements de chemin et les commandes --help.
+
+Pour créer le fichier comptes.txt et le remplir:
+echo "Annotations en 2016:" > comptes.txt
+cat */*.ann | wc >> comptes.txt
+echo "Annotations en 2017:" >> comptes.txt
+cat */*.ann | wc >> comptes.txt
+echo "Annotations en 2018:" >> comptes.txt
+
+Pour créer le fichier location.txt et le remplir:
+echo "Locations en 2016:" > location.txt
+cat */*.ann | egrep "Location" | wc >> location.txt
+echo "Locations en 2017:" >> location.txt
+cat */*.ann | egrep "Location" | wc >> location.txt
+echo "Locations en 2018:" >> location.txt
+cat */*.ann |egrep "Location" | wc >> location.txt
+
+Pour créer le fichier classement_2016.txt et le remplir:
+echo "Classement en 2016:" > classement_2016.txt
+cat */*.ann | egrep "Location" | cut -f 3 | sort -d | uniq -c | sort -n | tail -n 15 >> classement_2016.txt
+
+Mêmes commandes pour les fichiers classement_2017 et classement_2018.
+
+Pour créer le fichier janvier.txt et le remplir :
+echo "Janvier_2016_2017_2018" > janvier.txt
+cat ./2016/01/*.ann ./2017/01*.ann ./2018/01/*.ann | egrep "Location" |cut -f 3 | sort -d | uniq -c | sort -n | tail -n 15 >> janvier.txt 
