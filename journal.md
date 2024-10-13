@@ -12,4 +12,5 @@ Pour conclure, après avoir passé tant de temps sur cet exercice, j'ai eu envie
 
 ## Séance 3 : Exercices git
 
+Ceci est un premier essai pour l'exercice 3.
 
