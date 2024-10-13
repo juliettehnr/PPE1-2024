@@ -9,3 +9,7 @@ Pour les exercices pipelines de cette semaine, nous avons travaillé en groupe a
 - J'ai voulu me familiariser avec Vim donc j'ai décidé de lister les commandes que j'ai utilisées dans le fichier pipelines.txt via Vim sur ma machine et non via GitHub. J'ai enregistré et quitté (:wq) mais quand j'ai push mon dossier d'exercices sur GitHub il n'a pas du tout pris en compte tout ce que j'avais écris avec Vim. Je ne sais pas pourquoi. Du coup, j'ai dû copier-coller ce que j'avais écrit sur GitHub
 - Le dernier problème découle du second : j'ai push mon tag alors que mon dossier pipelines.txt était techniquement vide. Du coup, quand vous ouvrirez mon dossier, vous penserez que ce fichier est vide alors que je l'ai rempli par la suite.
 Pour conclure, après avoir passé tant de temps sur cet exercice, j'ai eu envie de mourir quand j'ai appris qu'il en avait un autre pour cette semaine (git 2 : corriger ses erreurs). Je trouve que ça demande beaucoup trop de travail, et j'en ai déjà plein dans les autres matières.
+
+## Séance 3 : Exercices git
+
+
