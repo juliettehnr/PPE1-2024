@@ -12,7 +12,9 @@ Pour conclure, après avoir passé tant de temps sur cet exercice, j'ai eu envie
 
 ## Séance 3 : Exercices git, correction d'erreurs
 
-
 Cette ligne doit rester après la correction.
 
 Cette ligne sera mise de côté.
+
+## 14/10/2024
+Les exercices sur comment corriger ses erreurs avec git ont été plus simples que je l'imaginais. Seul problème, j'ai rien compris aux consignes de l'exercice 3. Je l'ai donc sauté. Heureusement, ça ne m'a pas empêcher de poursuivre vers l'exercice 4. Pour l'exercice 2, j'ai utilisé les commandes git revert. J'ai rencontré une seule difficulté pendant cette étape. Git m'a emmené vers un espace pour que je laisse un message et impossible d'en sortir. Les commande :q et la touche echap ne marchaient pas. J'ai donc fermé brutalement ma console. Ca a quand même enregistré mon git revert donc tant mieux. J'ai crée un tag (comme demandé) à la fin de l'exercice 2 mais je ne l'ai pas push donc je ne sais pas à quoi il servait et s'il fallait le push. Pour l'exercice 4, j'ai utilisé les commandes "git stash push" et "git stash pop". Je n'ai pas rencontré de problèmes lors de ces étapes. En revanche, je n'ai pas compris si la ligne qu'on nous demandait d'écrire ("Cette ligne sera mise de côté") devait figurer dans notre version finale du devoir. 
