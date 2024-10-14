@@ -12,7 +12,6 @@ Pour conclure, après avoir passé tant de temps sur cet exercice, j'ai eu envie
 
 ## Séance 3 : Exercices git, correction d'erreurs
 
-Ceci est un premier essai pour l'exercice 3.
 
 Cette ligne doit rester après la correction.
 
