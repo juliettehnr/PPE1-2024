@@ -10,8 +10,10 @@ Pour les exercices pipelines de cette semaine, nous avons travaillé en groupe a
 - Le dernier problème découle du second : j'ai push mon tag alors que mon dossier pipelines.txt était techniquement vide. Du coup, quand vous ouvrirez mon dossier, vous penserez que ce fichier est vide alors que je l'ai rempli par la suite.
 Pour conclure, après avoir passé tant de temps sur cet exercice, j'ai eu envie de mourir quand j'ai appris qu'il en avait un autre pour cette semaine (git 2 : corriger ses erreurs). Je trouve que ça demande beaucoup trop de travail, et j'en ai déjà plein dans les autres matières.
 
-## Séance 3 : Exercices git
+## Séance 3 : Exercices git, correction d'erreurs
 
 Ceci est un premier essai pour l'exercice 3.
 
 Cette ligne doit rester après la correction.
+
+Cette ligne sera mise de côté.
