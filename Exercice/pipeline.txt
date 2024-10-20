@@ -18,7 +18,7 @@ cat */*.ann | egrep "Location" | wc >> location.txt
 echo "Locations en 2017:" >> location.txt
 cat */*.ann | egrep "Location" | wc >> location.txt
 echo "Locations en 2018:" >> location.txt
-cat */*.ann |egrep "Location" | wc >> location.txt
+cat */*.ann | egrep "Location" | wc >> location.txt
 
 Pour créer le fichier classement_2016.txt et le remplir:
 echo "Classement en 2016:" > classement_2016.txt
