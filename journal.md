@@ -36,4 +36,6 @@ Aujourd'hui je rends quelque chose, j'ai juste un début de script. Mais c'est c
 
 ## 18/11/2024
 
-Cette semaine ne m'a pas trop causé de soucis. Comme j'avais pris la correction en cours et que j'avais déjà un peu fait de html l'année dernière, cet exercice n'était pas trop difficile. mon script rend un tableau mais il n'est pas completement bon, une des lignes du script ne dois pas être correcte.  
+Cette semaine ne m'a pas trop causé de soucis. Comme j'avais pris la correction en cours et que j'avais déjà un peu fait de html l'année dernière, cet exercice n'était pas trop difficile. mon script rend un tableau mais il n'est pas completement bon, une des lignes du script ne dois pas être correcte.
+
+Update : je viens de me rendre compte que je n'avais pas commit le tableau, je viens de la faire mais après avoir push le tag du coup.
