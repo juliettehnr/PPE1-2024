@@ -33,3 +33,7 @@ J'avais abandonné le journal parce que je n'arrivais plus à suivre. Je n'ai pa
 Je n'ai pas compris pourquoi à la séance 5, après nous avoir dit que vous aviez remarqué qu'on avait eu du mal sur cet exercice, vous avez préféré passer une heure à nous faire installer helix plutôt que de revenir sur le cours et sur tout ce qui n'avait pas été compris. J'ai apprécié le fait que vous nous laissiez plus de temps pour terminer les exos mais sans aide supplémentaire de votre part j'étais tout autant perdue en sortant de la séance 5. Je n'ai donc rien rendu, je voulais pas repasser des heures dessus sans être plus éclairée.
 
 Aujourd'hui je rends quelque chose, j'ai juste un début de script. Mais c'est clairement pas assez. 
+
+## 18/11/2024
+
+Cette semaine ne m'a pas trop causé de soucis. Comme j'avais pris la correction en cours et que j'avais déjà un peu fait de html l'année dernière, cet exercice n'était pas trop difficile. mon script rend un tableau mais il n'est pas completement bon, une des lignes du script ne dois pas être correcte.  
