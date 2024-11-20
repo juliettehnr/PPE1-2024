@@ -28,7 +28,7 @@ echo "<html>
 while read -r line
 do
 	http_code=$(curl -s -I -L -w "%{http_code}" -0 /dev/null $line)
- 	encoding=$(curl -s -I -L -w "%{content_type}" -0 /dev/null | grep -P -o "charset=\S+" | cut -d'=' -f2) 
+ 	encoding=$(curl -s -I -L -w "%{content_type}" -0 /dev/null $line | grep -P -o "charset=\S+" | cut -d'=' -f2) 
   
  	if [ -z "$encoding" ]
  	then
