@@ -2,4 +2,5 @@
 Programmation et Projet Encadré 1
 
 Membre de ce groupe : https://github.com/LuneaN1ghtingale/ProjetPPEg-24
-Avec Sasha LATIMIER et Elen ASASYAN
+
+Avec Sasha LATIMIER 
