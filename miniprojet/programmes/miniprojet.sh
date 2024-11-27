@@ -11,7 +11,7 @@ num_ligne=1
 
 echo "<html>
 <head>
-<meta>charset='UTF-8'</meta>
+<meta charset='UTF-8'>
 </head>
 <body>
 <table>
